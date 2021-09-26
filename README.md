@@ -6,7 +6,7 @@
 
 ----
 
-## TDD 시작
+## [TDD 시작](https://github.com/saechimdaeki/tdd/tree/main/chap02)
 
 ## 테스트 코드 작성 순서
 

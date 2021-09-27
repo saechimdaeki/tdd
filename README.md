@@ -8,7 +8,7 @@
 
 ## [TDD 시작](https://github.com/saechimdaeki/tdd/tree/main/chap02)
 
-## 테스트 코드 작성 순서
+## [테스트 코드 작성 순서](https://github.com/saechimdaeki/tdd/tree/main/chap03)
 
  ## TDD 기능 명세 설계
 

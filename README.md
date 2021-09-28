@@ -10,7 +10,7 @@
 
 ## [테스트 코드 작성 순서](https://github.com/saechimdaeki/tdd/tree/main/chap03)
 
- ## TDD 기능 명세 설계
+ ## [TDD 기능 명세 설계](https://github.com/saechimdaeki/tdd/tree/main/chap04)
 
 ## Junit5 기초
 

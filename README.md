@@ -14,7 +14,7 @@
 
 ## [Junit5 기초](https://github.com/saechimdaeki/tdd/tree/main/chap05)
 
-## 테스트 코드의 구성
+## [테스트 코드의 구성](https://github.com/saechimdaeki/tdd/tree/main/chap06)
 
 ## 대역
 

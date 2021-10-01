@@ -16,7 +16,7 @@
 
 ## [테스트 코드의 구성](https://github.com/saechimdaeki/tdd/tree/main/chap06)
 
-## 대역
+## [대역](https://github.com/saechimdaeki/tdd/tree/main/chap07)
 
 ## 테스트 가능한 설계
 

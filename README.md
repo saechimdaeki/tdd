@@ -20,7 +20,7 @@
 
 ## [테스트 가능한 설계](https://github.com/saechimdaeki/tdd/tree/main/chap08)
 
-## 테스트 범위와 종류
+## [테스트 범위와 종류](https://github.com/saechimdaeki/tdd/tree/main/chap09)
 
 ## 테스트 코드와 유지보수
 

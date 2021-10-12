@@ -22,7 +22,7 @@
 
 ## [테스트 범위와 종류](https://github.com/saechimdaeki/tdd/tree/main/chap09)
 
-## 테스트 코드와 유지보수
+## [테스트 코드와 유지보수](https://github.com/saechimdaeki/tdd/tree/main/chap10)
 
 ## 마치며
 
